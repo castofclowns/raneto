@@ -1,0 +1,8 @@
+/*
+Metatitle: What is Home Equity Loan
+Description: Find out more about home equity loan and how it works.
+Title: What is Home Equity Loan?
+Sort: 9
+*/
+
+When new homeowners require immediate financial assistance, the question what is home equity loan is often asked. Home equity loan is essentially the use of your home’s value in acquiring a loan. An example of this is a home that costs $100,000. The paid amount for the home was $60, 000 while the owed amount is $40,000. From there, the home equity would therefore be $60,000. In instances such as sudden medical emergencies or college tuition fees, the homeowners have the option of loaning their home equity in order to pay for such expenses. The interest rate from your previous payment is higher when you make a home equity loan but an advantage is that taxes are deducted, making it easier to pay off. This is a once-a-month payment, making it more convenient for the borrower as well. The monthly interest rate or annual percentage rate (APR) is the fixed fee for the services the lender provided. People also question “what is home equity loan for?” There are indeed other options to choose from, but the advantage of home equity loans is the larger amount of money withdrawable and is a relatively faster form of loan since the collateral is the house. It is suitable for those who have a steady line of work to promptly pay off the loan and would only be using the money for a one-off purpose. In the instance the borrower fails to pay, his/her home equity loan would motion the lender to repossess or foreclose the house in order for it to be placed again on the market. This is beneficial for the lender as well because they are able to keep the paid money and repeat the process for future buyers.

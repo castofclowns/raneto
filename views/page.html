@@ -1,0 +1,35 @@
+
+<div class="container-fluid">
+  <div class="home-search jumbotron row">
+    <form class="search-form form-inline" role="form" action="/">
+      <div class="form-group">
+        <label class="sr-only" for="home-search">Ask a question...</label>
+        <input type="search" class="form-control input-lg" name="search" id="home-search" size="50" placeholder="Ask a question..." autofocus>
+        <button type="submit" class="btn btn-primary btn-lg">ASK</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<div class="container container-narrow">
+  <div class="row">
+    <div class="col-md-12">
+      <section class="content">
+        {{#meta.title}}<h1 class="title">{{meta.title}}</h1>{{/meta.title}}
+        {{{ content }}}
+
+        <br>
+        <div class="page-meta clearfix">
+          {{#config.support_email}}
+          <div class="contact-support pull-left">
+            <span class="glyphicon glyphicon-envelope"></span> Still need help? <a href="mailto:{{config.support_email}}">Get in touch!</a>
+          </div>
+          {{/config.support_email}}
+          <div class="last-updated pull-right">
+            Last updated on {{last_modified}}
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
